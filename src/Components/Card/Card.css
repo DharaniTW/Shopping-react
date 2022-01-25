@@ -1,0 +1,36 @@
+.card-wrapper {
+  /* padding: 10px; */
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-top: 70px;
+  margin-left: 85px;
+  margin-bottom: 15px;
+  display: inline-block;
+  min-width: 200px;
+  height: 350px;
+  text-align: center;
+}
+
+.card-wrapper > img {
+  height: 150px;
+  width: auto;
+}
+.card-wrapper > h4 {
+  margin: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.card-wrapper > h6 {
+  font-size: 13px;
+  color: orange;
+}
+.card-wrapper > p {
+  margin: 5px;
+  font-size: 15px;
+}
+.btn {
+  background-color: white;
+  border-color: black;
+  margin-top: 50px;
+}
